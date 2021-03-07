@@ -5,5 +5,4 @@
 - :thinking: Aprendendo de tudo um pouco, ainda não achei minha praia
 - :nut_and_bolt: Me formei e trabalhei como Técnico em Informática
 - :joy:	Fun fact: Zero social networks
-
-Contato: ![email](./contato.svg)
+- Contato: ![email](./contato.svg)
